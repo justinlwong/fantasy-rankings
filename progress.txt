@@ -1,0 +1,21 @@
+Next Steps:
+
+- Use queries to retrieve same ranking scores for baseball as for hockey
+- Create an array to store database of team profiles in a schema
+- add players by first name and last name (compare by moving both strings to lowercase)
+- be able to compare teams total raw scores and scores of each category
+- do hitting first, then pitching
+
+week of may 6th:
+
+DONE:
+- calculate the z scores for each year
+- add trends for each category 
+- do a per year filter
+
+PENDING:
+- add eligibility (do a separate query that gets the positions, games, games started)
+- go through players and add positions if games started >= 5 or games total >= 10
+- learn in excel how to create tabs for different positions
+- do for all years and full
+- add pitching
